@@ -11,10 +11,6 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ![](https://github.com/nekizz)
 
 ### My Skills
